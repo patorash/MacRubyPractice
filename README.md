@@ -1,0 +1,4 @@
+MacRubyPractice
+===============
+
+MacRubyの練習
